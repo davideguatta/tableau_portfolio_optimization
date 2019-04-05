@@ -1,0 +1,8 @@
+# ======================================================================================================================
+# Input files path
+# ======================================================================================================================
+path:
+    # Full path where SKU database is stored
+    db: C:\Dave\Database\database.xlsx
+    # Full path where SKU database is stored
+    plant: C:\Dave\Database\plant utilization.xlsx
